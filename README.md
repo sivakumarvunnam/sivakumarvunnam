@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivakumarvunnam
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning MicroServices and Kubernates
+- 🌱 I’m currently working on Terraform, MicroServices and Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sivakumarvunnam1@gmail.com
 
