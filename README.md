@@ -7,7 +7,7 @@
 
 I hold some certifications:
 
-- <a href="https://www.credly.com/badges/df6d5e78-c1e1-4b40-abcf-1472b3d17f7f?source=linked_in_profile"><img src="images/cka.png" width="24" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
+- <a href="https://www.credly.com/badges/df6d5e78-c1e1-4b40-abcf-1472b3d17f7f?source=linked_in_profile"><img src="images/cka.png" width="20" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
 
 <!---
 sivakumarvunnam/sivakumarvunnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
