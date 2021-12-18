@@ -1,5 +1,5 @@
 ### `$ whoami`
-- 👋 Hi, I’m @sivakumarvunnam. I'm Senior Devops Engineer at [Avetta](https://www.avetta.com/)
+- 👋 Hi, I’m @sivakumarvunnam. I'm **Senior Devops Engineer** at [Avetta](https://www.avetta.com/)
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently working on Terraform, MicroServices and Kubernetes
 - 💞️ I’m looking to collaborate on ...
