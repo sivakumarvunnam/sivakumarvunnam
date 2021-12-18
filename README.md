@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/sivakumarvunnam/)
 - 📫 How to reach me ...sivakumarvunnam1@gmail.com
 
+<img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
+
 ### `$ certifications`
 
 - <a href="https://www.credly.com/badges/df6d5e78-c1e1-4b40-abcf-1472b3d17f7f?source=linked_in_profile"><img src="images/cka.png" width="18" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
