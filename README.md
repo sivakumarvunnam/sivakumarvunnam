@@ -3,7 +3,7 @@
 ### `$ whoami`
 - 👋 Hi, Myself **@sivakumarvunnam**. I'm a **Senior Devops Engineer** at [Avetta](https://www.avetta.com/)
 - 👀 I’m interested in **DevOps, CloudOps, MLOps, ALOps**
-- 🌱 I’m currently working on **Terraform, AWS, MicroServices, Kubernetes**
+- 🌱 I’m currently working on **Terraform, AWS, MicroServices, Kubernetes, EFK, NewRelic, Grafana, Prometheus**
 - 💞️ I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/sivakumarvunnam/)
 - 📫 How to reach me ...sivakumarvunnam1@gmail.com
 
