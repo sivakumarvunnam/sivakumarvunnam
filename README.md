@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
+<img align="right" src="https://github.com/sivakumarvunnam/sivakumarvunnam/blob/main/images/coder.gif?raw=true" width="500" height="320" />
 
 ### `$ whoami`
 - 👋 Hi, I’m @sivakumarvunnam. I'm **Senior Devops Engineer** at [Avetta](https://www.avetta.com/)
